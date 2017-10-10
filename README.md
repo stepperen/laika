@@ -1,4 +1,4 @@
 # Laika
 Projekt 5 - Laika
 
-Vi laver en synthesizser
+Jacob og David laver synthesizser 
